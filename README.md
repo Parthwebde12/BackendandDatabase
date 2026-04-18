@@ -15,6 +15,7 @@ This repo documents my progress as I learn and build backend applications using 
 * Error Handling
 * File Uploads
 * Deployment
+* EJS
 
 ## 🎯 Purpose
 
